@@ -4,7 +4,7 @@ auth auth auth
 facebook login click here. d
 
 Marketing site template for Jekyll. Browse through a [live demo](https://proud-alligator.cloudvent.net/).
-Increase the web presence of your brand with this configurable theme.
+Increase the web presence of your brand with this configurable theme.ss
 
 ![Hydra template screenshot](images/_screenshot.png)
 
